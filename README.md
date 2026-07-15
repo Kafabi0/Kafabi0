@@ -1,9 +1,8 @@
 <p align="center">
   <img
-    src="img/BannerMe.png"
+    src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Kafabi%20Aulia%20Fasyah&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20%7C%20Web%20%26%20Mobile%20%7C%20IoT&descSize=18&descAlignY=60"
     alt="Kafabi Aulia Fasyah banner"
     width="100%"
-    style="border: 3px solid #ffffffff; border-radius: 10px;"
   />
 </p>
 
@@ -14,7 +13,7 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/kafabi0/kafabi0/output/snake.svg" alt="Snake animation" />
+  <img src="https://komarev.com/ghpvc/?username=Kafabi0&label=Profile%20views&color=6c5ce7&style=flat" alt="Profile views" />
 </p>
 
 ---
@@ -24,22 +23,11 @@
 > I love trying new things and I'm always curious about how technology evolves.
 > I focus on turning ideas into real products — from web apps and IoT integrations to mobile apps.
 
-<table>
-<tr style="padding:0;">
-<td style="border:none; text-align:left; padding-left:0; vertical-align:middle;">
-
 > 💻 Currently learning: **React, Flutter & Machine Learning**
 > 🎯 Goal: **To become a successful Software Engineer**
 > ⚡ Focus: **Web & Mobile Development**
 > 🌱 Fun fact: **I enjoy connecting hardware (IoT) with clean software**
 > ❤️ Favorite subject: **Mathematics**
-
-</td>
-<td align="center" width="100" style="border:none; vertical-align:middle;">
-<img src="img/hutao-money.gif" alt="Hu Tao gif" width="90" style="border-radius:8px;" />
-</td>
-</tr>
-</table>
 
 ---
 
@@ -73,8 +61,12 @@ and I'm exploring <b>Machine Learning 🐍</b> for applied, data-driven ideas.
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kafabiaulia&show_icons=true&theme=tokyonight&hide_border=true" height="165" alt="GitHub stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kafabiaulia&theme=tokyonight&hide_border=true" height="165" alt="GitHub streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Kafabi0&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kafabi0&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Top languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kafabi0&theme=tokyo-night&hide_border=true&area=true" alt="Activity graph" width="95%" />
 </p>
 
 ---
@@ -83,16 +75,16 @@ and I'm exploring <b>Machine Learning 🐍</b> for applied, data-driven ideas.
 
 <p align="center">
   <a href="https://www.instagram.com/kafabiiaulia__" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="Instagram" />
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
   <a href="mailto:zerxybusiness@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="Email" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://github.com/kafabiaulia" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/github/default.svg" width="52" height="40" alt="GitHub" />
+  <a href="https://github.com/Kafabi0" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </p>
 
 ---
 
-⭐️ _Thanks for visiting my profile! Feel free to connect or check out my projects!_ 😄
+<p align="center">⭐️ <i>Thanks for visiting my profile! Feel free to connect or check out my projects!</i> 😄</p>
