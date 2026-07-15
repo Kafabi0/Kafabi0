@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/kafabiaulia/kafabiaulia/output/snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/kafabi0/kafabi0/output/snake.svg" alt="Snake animation" />
 </p>
 
 ---
