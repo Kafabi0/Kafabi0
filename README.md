@@ -1,12 +1,12 @@
 <!-- ===== HEADER BANNER ===== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=230&section=header&text=Kafabi%20Aulia%20Fasyah&fontSize=52&fontColor=ffffff&fontAlignY=36&desc=Software%20Engineer%20%E2%80%A2%20Web%20%E2%80%A2%20Mobile%20%E2%80%A2%20IoT%20%E2%80%A2%20Machine%20Learning&descSize=18&descAlignY=58&animation=fadeIn" width="100%" alt="header banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=230&section=header&text=Kafabi%20Aulia%20Fasyah&fontSize=52&fontColor=ffffff&fontAlignY=36&desc=Frontend%20%E2%80%A2%20Backend%20%E2%80%A2%20Full-Stack%20%E2%80%A2%20Mobile%20Developer&descSize=18&descAlignY=58&animation=fadeIn" width="100%" alt="header banner" />
 </p>
 
 <!-- ===== TYPING ANIMATION ===== -->
 <p align="center">
   <a href="https://github.com/Kafabi0">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=520&lines=Software+Engineer+from+Indonesia+%F0%9F%87%AE%F0%9F%87%A9;Web+%26+Mobile+App+Developer+%E2%9A%A1;IoT+%2B+Machine+Learning+Enthusiast+%F0%9F%A4%96;Turning+ideas+into+real+products+%F0%9F%9A%80" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=520&lines=Software+Developer+from+Indonesia+%F0%9F%87%AE%F0%9F%87%A9;Frontend+%26+Backend+Developer+%E2%9A%A1;Full-Stack+%26+Mobile+App+Developer+%F0%9F%93%B1;Turning+ideas+into+real+products+%F0%9F%9A%80" alt="Typing SVG" />
   </a>
 </p>
 
@@ -22,26 +22,24 @@
 <br/>
 
 <!-- ===== ABOUT ===== -->
-
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="28"> About Me
 
 ```yaml
-name: Kafabi Aulia Fasyah
-role: Software Engineer
-location: Indramayu, Indonesia 🇮🇩
-focus: [Web Development, Mobile Development, IoT]
-learning: [React, Flutter, Machine Learning]
-goal: "To become a successful Software Engineer"
-fun_fact: "I love connecting hardware (IoT) with clean software"
+name:        Kafabi Aulia Fasyah
+role:        Software Developer
+location:    Indramayu, Indonesia 🇮🇩
+focus:       [ Frontend, Backend, Full-Stack, Mobile ]
+learning:    [ React, Flutter, Node.js ]
+goal:        "To become a successful Software Engineer"
+fun_fact:    "I love building clean, fast, and reliable apps"
 fav_subject: Mathematics
 ```
 
-> 💡 I love turning ideas into real products — from **web apps** and **IoT integrations** to **mobile apps** — always curious about how technology evolves.
+> 💡 I love turning ideas into real products — from **web frontends** and **backend APIs** to **full-stack** and **mobile apps** — always curious about how technology evolves.
 
 ---
 
 <!-- ===== EXPERIENCE ===== -->
-
 ## 💼 Experience
 
 <table align="center">
@@ -52,7 +50,7 @@ fav_subject: Mathematics
   </tr>
   <tr>
     <td align="center">Inotal Sistema Internasional</td>
-    <td align="center">Front-End • Back-End • Full-Stack • Mobile Developer</td>
+    <td align="center">Frontend • Backend • Full-Stack • Mobile Developer</td>
     <td align="center">2025</td>
   </tr>
 </table>
@@ -60,7 +58,6 @@ fav_subject: Mathematics
 ---
 
 <!-- ===== FEATURED PROJECT ===== -->
-
 ## 🚀 Featured Project
 
 <table align="center">
@@ -81,7 +78,6 @@ fav_subject: Mathematics
 ---
 
 <!-- ===== TECH STACK ===== -->
-
 ## 🛠️ Tech Stack
 
 <p align="center">
@@ -89,15 +85,15 @@ fav_subject: Mathematics
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/IoT-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
-  <img src="https://img.shields.io/badge/REST%20API-005571?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Frontend-36BCF7?style=for-the-badge&logo=react&logoColor=white" />
+  <img src="https://img.shields.io/badge/Backend-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Full--Stack-8E44AD?style=for-the-badge&logo=stackshare&logoColor=white" />
+  <img src="https://img.shields.io/badge/Mobile-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
 </p>
 
 ---
 
 <!-- ===== GITHUB STATS ===== -->
-
 ## 📊 GitHub Analytics
 
 <p align="center">
@@ -120,7 +116,6 @@ fav_subject: Mathematics
 ---
 
 <!-- ===== CONNECT ===== -->
-
 ## 🌐 Connect With Me
 
 <p align="center">
