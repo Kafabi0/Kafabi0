@@ -6,7 +6,7 @@
 <!-- ===== TYPING ANIMATION ===== -->
 <p align="center">
   <a href="https://github.com/Kafabi0">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=520&lines=Software+Developer+from+Indonesia+%F0%9F%87%AE%F0%9F%87%A9;Frontend+%26+Backend+Developer+%E2%9A%A1;Full-Stack+%26+Mobile+App+Developer+%F0%9F%93%B1;Turning+ideas+into+real+products+%F0%9F%9A%80;Press+START+to+continue...+%F0%9F%95%B9%EF%B8%8F" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=520&lines=Software+Developer+from+Indonesia+%F0%9F%87%AE%F0%9F%87%A9;Frontend+%26+Backend+Developer+%E2%9A%A1;Full-Stack+%26+Mobile+App+Developer+%F0%9F%93%B1;Turning+ideas+into+real+products+%F0%9F%9A%80" alt="Typing SVG" />
   </a>
 </p>
 
@@ -19,31 +19,115 @@
   <img src="https://img.shields.io/badge/Status-Open%20to%20Work-2ecc71?style=for-the-badge" alt="Open to work" />
 </p>
 
-<!-- ===== PLAYER CARD (GAME STYLE) ===== -->
-<h2 align="center">🎮 PLAYER CARD</h2>
-<p align="center">
-  <img src="https://img.shields.io/badge/CLASS-Software%20Developer-8E44AD?style=for-the-badge&logo=protagonist" />
-  <img src="https://img.shields.io/badge/LEVEL-99-FFD700?style=for-the-badge&logo=star&logoColor=black" />
-  <img src="https://img.shields.io/badge/HP-%E2%9D%A4%EF%B8%8F%E2%9D%A4%EF%B8%8F%E2%9D%A4%EF%B8%8F%E2%9D%A4%EF%B8%8F%E2%9D%A4%EF%B8%8F-e74c3c?style=for-the-badge" />
-</p>
-
-<table align="center">
-  <tr>
-    <td align="center"><b>⚔️ ATK</b><br/>Frontend</td>
-    <td align="center"><b>🛡️ DEF</b><br/>Backend</td>
-    <td align="center"><b>✨ MAG</b><br/>Full-Stack</td>
-    <td align="center"><b>🏃 SPD</b><br/>Mobile</td>
-  </tr>
-  <tr>
-    <td align="center">██████░░ 85</td>
-    <td align="center">█████░░░ 80</td>
-    <td align="center">██████░░ 88</td>
-    <td align="center">█████░░░ 78</td>
-  </tr>
-</table>
-
 <br/>
 
 <!-- ===== ABOUT ===== -->
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="28"> About Me
+
+```yaml
+name: Kafabi Aulia Fasyah
+role: Software Developer
+location: Indramayu, Indonesia 🇮🇩
+focus: [Frontend, Backend, Full-Stack, Mobile]
+learning: [React, Flutter, Node.js]
+goal: "To become a successful Software Engineer"
+fun_fact: "I love building clean, fast, and reliable apps"
+fav_subject: Mathematics
+```
+
+> 💡 I love turning ideas into real products — from **web frontends** and **backend APIs** to **full-stack** and **mobile apps** — always curious about how technology evolves.
+
+---
+
+<!-- ===== EXPERIENCE ===== -->
+
+## 💼 Experience
+
+<table align="center">
+  <tr>
+    <td align="center"><b>Company</b></td>
+    <td align="center"><b>Roles</b></td>
+    <td align="center"><b>Period</b></td>
+  </tr>
+  <tr>
+    <td align="center">Inotal Sistema Internasional</td>
+    <td align="center">Frontend • Backend • Full-Stack • Mobile Developer</td>
+    <td align="center">2025</td>
+  </tr>
+</table>
+
+---
+
+<!-- ===== FEATURED PROJECT ===== -->
+
+## 🚀 Featured Project
+
+<table align="center">
+  <tr>
+    <td>
+      <h3>🌐 SiKaFa Portfolio</h3>
+      <p>A modern, animated personal portfolio built with <b>React</b>, <b>Vite</b>, <b>Tailwind CSS</b> & <b>Framer Motion</b> — featuring an Aurora background, 3D lanyard, and rich micro-interactions.</p>
+      <p>
+        <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" />
+        <img src="https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white" />
+        <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat&logo=tailwindcss&logoColor=white" />
+        <img src="https://img.shields.io/badge/Framer%20Motion-0055FF?style=flat&logo=framer&logoColor=white" />
+      </p>
+    </td>
+  </tr>
+</table>
+
+---
+
+<!-- ===== TECH STACK ===== -->
+
+## 🛠️ Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,flutter,nodejs,tailwind,js,ts,html,css,postgres,docker,figma,git,github,vscode&perline=7" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Frontend-36BCF7?style=for-the-badge&logo=react&logoColor=white" />
+  <img src="https://img.shields.io/badge/Backend-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Full--Stack-8E44AD?style=for-the-badge&logo=stackshare&logoColor=white" />
+  <img src="https://img.shields.io/badge/Mobile-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+</p>
+
+---
+
+<!-- ===== GITHUB STATS ===== -->
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=Kafabi0&theme=tokyonight&hide_border=true&background=0D1117&ring=36BCF7&fire=36BCF7&currStreakLabel=36BCF7" alt="streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kafabi0&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=36BCF7&line=36BCF7&point=ffffff&area=true" width="95%" alt="activity graph" />
+</p>
+
+---
+
+<!-- ===== CONNECT ===== -->
+
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://github.com/Kafabi0" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://www.instagram.com/kafabiiaulia__" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="mailto:zerxybusiness@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
+
+<!-- ===== FOOTER ===== -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,50:203A43,100:0F2027&height=120&section=footer&text=Thanks%20for%20visiting!%20%E2%AD%90&fontSize=20&fontColor=ffffff&fontAlignY=75" width="100%" alt="footer" />
+</p>
