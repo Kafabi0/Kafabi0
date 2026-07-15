@@ -22,16 +22,17 @@
 <br/>
 
 <!-- ===== ABOUT ===== -->
+
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="28"> About Me
 
 ```yaml
-name:        Kafabi Aulia Fasyah
-role:        Software Developer
-location:    Indramayu, Indonesia 🇮🇩
-focus:       [ Frontend, Backend, Full-Stack, Mobile ]
-learning:    [ React, Flutter, Node.js ]
-goal:        "To become a successful Software Engineer"
-fun_fact:    "I love building clean, fast, and reliable apps"
+name: Kafabi Aulia Fasyah
+role: Software Developer
+location: Indramayu, Indonesia 🇮🇩
+focus: [Frontend, Backend, Full-Stack, Mobile]
+learning: [React, Flutter, Node.js]
+goal: "To become a successful Software Engineer"
+fun_fact: "I love building clean, fast, and reliable apps"
 fav_subject: Mathematics
 ```
 
@@ -40,6 +41,7 @@ fav_subject: Mathematics
 ---
 
 <!-- ===== EXPERIENCE ===== -->
+
 ## 💼 Experience
 
 <table align="center">
@@ -58,6 +60,7 @@ fav_subject: Mathematics
 ---
 
 <!-- ===== FEATURED PROJECT ===== -->
+
 ## 🚀 Featured Project
 
 <table align="center">
@@ -78,6 +81,7 @@ fav_subject: Mathematics
 ---
 
 <!-- ===== TECH STACK ===== -->
+
 ## 🛠️ Tech Stack
 
 <p align="center">
@@ -94,19 +98,11 @@ fav_subject: Mathematics
 ---
 
 <!-- ===== GITHUB STATS ===== -->
+
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Kafabi0&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=36BCF7&icon_color=36BCF7" alt="stats" />
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Kafabi0&theme=tokyonight&hide_border=true&background=0D1117&ring=36BCF7&fire=36BCF7&currStreakLabel=36BCF7" alt="streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kafabi0&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=36BCF7&langs_count=8" height="170" alt="top langs" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Kafabi0&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=8" alt="trophies" />
+  <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=Kafabi0&theme=tokyonight&hide_border=true&background=0D1117&ring=36BCF7&fire=36BCF7&currStreakLabel=36BCF7" alt="streak" />
 </p>
 
 <p align="center">
@@ -116,6 +112,7 @@ fav_subject: Mathematics
 ---
 
 <!-- ===== CONNECT ===== -->
+
 ## 🌐 Connect With Me
 
 <p align="center">
