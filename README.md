@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <sub>Frontend &nbsp;·&nbsp; Backend &nbsp;·&nbsp; Full-Stack &nbsp;·&nbsp; Mobile</sub>
+  <sub>Building software that doesn't need explaining twice.</sub>
 </p>
 
 <p align="center">
@@ -31,31 +31,10 @@
 I'm a software developer based in Indramayu, Indonesia, working across the frontend, backend, and mobile — with a particular interest in building things that are fast, dependable, and don't need explaining twice.
 
 <table>
-<tr><td width="140"><b>Based in</b></td><td>Indramayu, Indonesia</td></tr>
+<tr><td><b>Based in</b></td><td>Indramayu, Indonesia</td></tr>
 <tr><td><b>Focus</b></td><td>Frontend · Backend · Full-Stack · Mobile</td></tr>
 <tr><td><b>Exploring</b></td><td>React · Flutter · Node.js</td></tr>
 <tr><td><b>Enjoys</b></td><td>Clean, fast, reliable software — and mathematics</td></tr>
-</table>
-
-<br/>
-
-<!-- ===================================================== -->
-<!-- ============  EXPERIENCE  ============================ -->
-<!-- ===================================================== -->
-
-## 🌿 Experience
-
-<table width="100%">
-<tr>
-  <th align="left">Company</th>
-  <th align="left">Role</th>
-  <th align="left">Period</th>
-</tr>
-<tr>
-  <td>Inotal Sistema Internasional</td>
-  <td>Frontend · Backend · Full-Stack · Mobile Developer</td>
-  <td>2025</td>
-</tr>
 </table>
 
 <br/>
@@ -80,15 +59,15 @@ Built as a space to practice motion, restraint, and interaction design at the sa
 - Fully responsive, dark-mode-first layout
 - Component architecture built for easy content updates
 
+<table>
+<tr><td align="center"><i>screenshot placeholder</i></td><td align="center"><i>screenshot placeholder</i></td></tr>
+</table>
+
 <p>
   <img src="https://img.shields.io/badge/React-1B4332?style=flat-square&logo=react&logoColor=74C69D" />
   <img src="https://img.shields.io/badge/Vite-2D6A4F?style=flat-square&logo=vite&logoColor=D8F3DC" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-40916C?style=flat-square&logo=tailwindcss&logoColor=white" />
   <img src="https://img.shields.io/badge/Framer_Motion-2D6A4F?style=flat-square&logo=framer&logoColor=D8F3DC" />
-</p>
-
-<p>
-  <img src="https://img.shields.io/badge/screenshot-coming%20soon-D8F3DC?style=flat-square&labelColor=1B4332" />
 </p>
 
 <p>
@@ -110,7 +89,11 @@ Built as a space to practice motion, restraint, and interaction design at the sa
 
 **Backend**
 <br/>
-<img src="https://skillicons.dev/icons?i=nodejs,postgres&perline=6" />
+<img src="https://skillicons.dev/icons?i=nodejs&perline=6" />
+
+**Database**
+<br/>
+<img src="https://skillicons.dev/icons?i=postgres&perline=6" />
 
 **Mobile**
 <br/>
@@ -119,6 +102,27 @@ Built as a space to practice motion, restraint, and interaction design at the sa
 **Tools & Design**
 <br/>
 <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,docker&perline=6" />
+
+<br/>
+
+<!-- ===================================================== -->
+<!-- ============  EXPERIENCE  ============================ -->
+<!-- ===================================================== -->
+
+## 🌿 Experience
+
+<table width="100%">
+<tr>
+  <th align="left">Company</th>
+  <th align="left">Role</th>
+  <th align="left">Period</th>
+</tr>
+<tr>
+  <td>Inotal Sistema Internasional</td>
+  <td>Frontend · Backend · Full-Stack · Mobile Developer</td>
+  <td>2025</td>
+</tr>
+</table>
 
 <br/>
 
@@ -145,7 +149,7 @@ Built as a space to practice motion, restraint, and interaction design at the sa
 ## 🌾 Current Focus
 
 <table>
-<tr><td width="160"><b>Learning</b></td><td>React · Flutter · Node.js</td></tr>
+<tr><td><b>Learning</b></td><td>React · Flutter · Node.js</td></tr>
 <tr><td><b>Goal</b></td><td>Growing into a well-rounded software engineer, one shipped project at a time</td></tr>
 <tr><td><b>Open source</b></td><td>Interested in contributing to frontend and mobile tooling projects</td></tr>
 <tr><td><b>Direction</b></td><td>Deepening full-stack and mobile craft while staying close to real-world problems</td></tr>
